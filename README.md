@@ -1,0 +1,2 @@
+# dotfiles
+Repositorio de configuración
