@@ -1,0 +1,11 @@
+
+#general
+alias grep="grep --color=auto"
+alias diff="diff --color=auto"
+alias rm="rm -ri" # rm recursivo e interactivo
+alias mv="mv -i"
+alias vim="nvim"
+alias ls="ls -lah --color=auto --group-directories-first" 
+alias free='free -m' # mostrar uso de ram
+alias df='df -h' # mostrar uso de disco
+

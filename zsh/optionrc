@@ -1,0 +1,11 @@
+setopt	correct 			# Autocorreccion.
+setopt	extendedglob 		# Permite utilizar expresiones con [*].
+setopt	nocaseglob			#
+setopt	nocheckjobs			# No advertir sobre procesos ejecutandose si cierro la terminal.
+setopt	numericglobsort		# Ordenar numericamente archivos cuando tenga sentido.
+setopt	appendhistory		# Añadir al historial en vez de reemplazarlo.
+setopt	histignorealldups	# Ignorar duplicados del historial.
+setopt	autocd				# Si solo tipeo un directorio, entrar directamente.
+setopt	inc_append_history	# Comandos salvados son agregados al historial
+setopt	histignorespace		# No salvar comandos que comiencen con un espacio
+
